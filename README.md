@@ -1,10 +1,11 @@
 # Ola, I'm Raghu 👋
 
-I'm passionate about building high-impact products and solving challenging  problems. 
-Current super keen on **Forward Deployed Engineering** and **high-growth teams** where I can contribute to scaling products that reach 0-1 and 1-100!
+Grad Student @ UT- Austin, class of 2026!
+Passionate about building high-impact products and solving challenging problems. 
+Also super keen on **Forward Deployed Engineering** and **high-growth teams** where I can contribute to scaling products that reach 0-1 and 1-100!
 
 ### Stuff I recently shipped
-More or less obsessed with building recommendation systems and extensions, Check 'em out:
+More or less obsessed with building recommendation systems and trading bot extensions, Check 'em out:
 
 | 🔗 Project | 💡 What It Does | 🛠️ Stack |
 |-------------|----------------|-----------|
@@ -16,7 +17,7 @@ More or less obsessed with building recommendation systems and extensions, Check
 
 ---
 
-Additionally, I actively contribute to open source as well, especially HomeBrew[https://github.com/homebrew].
+I also actively contribute to **open source**, especially [**Homebrew**](https://github.com/homebrew).  
 Most of programming interest as of late is toward solving optimizaiton level problems and tinkering with Voice AI.
 
 Do reach out to me if you are hiring for Spring 2026 roles or just want to chat about working together!
