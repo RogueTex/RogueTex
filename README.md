@@ -27,7 +27,7 @@ Do reach out to me if you are hiring for Spring 2026 roles or just want to chat 
 ## 💬 Socials
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0072FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/raghoo.bsky.social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuraman-subramanian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuraman-1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RogueTex)
 [![Email](https://img.shields.io/badge/Email-raghu.s@utexas.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghu.s@utexas.edu)
 
