@@ -1,21 +1,8 @@
 # Hi, I'm Raghu
 
-MSBA candidate at UT Austin, graduating May 2026. Looking for roles in AI/ML engineering and Forward Deployed Engineering.
+MS candidate at UT Austin, graduating May 2026. Looking for roles in AI/ML engineering and Forward Deployed Engineering.
 
-I like building things that sit at the intersection of ML and real-world systems — from optimization pipelines to agentic workflows.
-
----
-
-### Selected Projects
-
-| Project | What It Does |
-|---|---|
-| [ChargePilot — EV Charger Optimizer](https://github.com/RogueTex/ChargePilot-EV-Optimizer) | Graph-based engine that ranks high-impact EV charger expansion sites using real urban data. Built at TVG x c0mpiled (UT Austin). |
-| [Document-ML-Agent](https://github.com/RogueTex/Document-ML-Agent) | End-to-end agentic pipeline for receipt and invoice processing. Adaptive ML agent with smart approval logic. |
-| [2A1B Solver](https://github.com/RogueTex/2A1B_Solver) | RL-based solver for a 2048 variant — uses search and optimization over combinatorial game states. |
-| [2A1B Game](https://github.com/RogueTex/2A1BGame) | Playable browser implementation of the 2048 variant the solver targets. |
-| [Connect4Bot](https://github.com/RogueTex/Connect4Bot) | Connect 4 AI using CNNs and Transformers for game state evaluation. |
-| [TradingBot](https://github.com/RogueTex/TradingBot) | Quantitative strategy simulator — plug in algorithms, benchmark with PnL and drawdown metrics. |
+I like building things at the intersection of ML and real-world systems. Some recent work: I built [ChargePilot](https://github.com/RogueTex/ChargePilot-EV-Optimizer), a graph-based engine that ranks high-impact EV charger expansion sites using real urban data (built at TVG x c0mpiled, UT Austin). I also built an [end-to-end agentic pipeline](https://github.com/RogueTex/Document-ML-Agent) for receipt and invoice processing with adaptive ML-based approval logic. On the game side, I wrote a [2048 variant](https://github.com/RogueTex/2A1BGame) from scratch and then built an [RL solver](https://github.com/RogueTex/2A1B_Solver) on top of it. I also have a [TradingBot](https://github.com/RogueTex/TradingBot) that lets you plug in quantitative strategies and benchmark them with PnL and drawdown metrics.
 
 ---
 
