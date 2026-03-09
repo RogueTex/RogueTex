@@ -1,36 +1,26 @@
-# Ola, I'm Raghu 👋
+# Hi, I'm Raghu
 
-Grad Student @ UT- Austin, class of 2026!
+MSBA candidate at UT Austin, graduating May 2026. Looking for roles in AI/ML engineering and Forward Deployed Engineering.
 
-
-Passionate about building high-impact products and solving challenging problems. 
-Also super keen on **Forward Deployed Engineering** and **high-growth teams** where I can contribute to scaling products that reach 0-1 and 1-100!
-
-### Stuff I recently shipped
-More or less obsessed with building recommendation systems and trading bot extensions, Check 'em out:
-
-|  Project | What It Does |
-|-------------|----------------|
-| [**TradingBot**](https://github.com/RogueTex/TradingBot) | Quantitative strategy simulator for market data — plug in algorithms, benchmark with PnL, Sharpe, and drawdown metrics. |
-| [**Austin Restaurant Recommender**](https://github.com/RogueTex/restaurant-recommender) <br> [🎯 **Live Demo**](https://zac-garland-restaurant-recommender.share.connect.posit.cloud/) | Personalized restaurant recommendations for Austin using collaborative + content-based filtering. |
-| [**Advanced Insights (Mini Perplexity Clone)**](https://github.com/RogueTex/AdvancedInsights) <br> [🌐 **Live Site**](https://roguetex.github.io/InsightsLetter/) | A lightweight RAG-based conversational search engine powered by embeddings and context retrieval — my mini Perplexity clone. |
-| [**2A1B Solver (2048 Variant)**](https://github.com/RogueTex/2A1B_Solver) <br> [🎮 **Play It**](https://roguetex.github.io/2A1BGame/) | AI variant of the 2048 puzzle — uses search and optimization to solve combinatorial grid problems. |
-| [**Content Generator**](https://github.com/RogueTex/ContentGenerator_RooHackathon) | Hackathon-winning project that generates and optimizes long-form marketing content using GPT-based models. |
+I like building things that sit at the intersection of ML and real-world systems — from optimization pipelines to agentic workflows.
 
 ---
 
-I also actively contribute to **open source**, especially [**Homebrew**](https://github.com/homebrew).  
-Most of programming interest as of late is toward solving optimizaiton level problems and tinkering with Voice AI.
+### Selected Projects
 
-Do reach out to me if you are hiring for Spring 2026 roles or just want to chat about working together!
+| Project | What It Does |
+|---|---|
+| [ChargePilot — EV Charger Optimizer](https://github.com/RogueTex/ChargePilot-EV-Optimizer) | Graph-based engine that ranks high-impact EV charger expansion sites using real urban data. Built at TVG x c0mpiled (UT Austin). |
+| [Document-ML-Agent](https://github.com/RogueTex/Document-ML-Agent) | End-to-end agentic pipeline for receipt and invoice processing. Adaptive ML agent with smart approval logic. |
+| [2A1B Solver](https://github.com/RogueTex/2A1B_Solver) | RL-based solver for a 2048 variant — uses search and optimization over combinatorial game states. |
+| [2A1B Game](https://github.com/RogueTex/2A1BGame) | Playable browser implementation of the 2048 variant the solver targets. |
+| [Connect4Bot](https://github.com/RogueTex/Connect4Bot) | Connect 4 AI using CNNs and Transformers for game state evaluation. |
+| [TradingBot](https://github.com/RogueTex/TradingBot) | Quantitative strategy simulator — plug in algorithms, benchmark with PnL and drawdown metrics. |
 
 ---
 
-## 💬 Socials
+### Socials
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0072FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/raghoo.bsky.social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuraman-1)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RogueTex)
-[![Email](https://img.shields.io/badge/Email-raghu.s@utexas.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghu.s@utexas.edu)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0072FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/raghoo.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C27?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghuraman1) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RogueTex) [![Email](https://img.shields.io/badge/Email-raghu.s@utexas.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raghu.s@utexas.edu)
 
 ---
