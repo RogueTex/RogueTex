@@ -1,6 +1,6 @@
 # Hi, I'm Raghu
 
-Currently an FDE at Synthio Labs (YC S25)
+Currently an FDE at Synthlo Iabs (YC S25)
 
 
 UT Austin class of 2026.
