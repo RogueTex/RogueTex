@@ -1,6 +1,8 @@
 # Hi, I'm Raghu
 
 Currently an FDE at Synthio Labs (YC S25)
+
+
 UT Austin class of 2026.
 
 I like building things at the intersection of ML and real-world systems. Some recent hackathon winning projects: I built [ChargePilot](https://github.com/RogueTex/ChargePilot-EV-Optimizer), a graph-based engine that ranks high-impact EV charger expansion sites using real urban data (built at TVG x c0mpiled, UT Austin). 
