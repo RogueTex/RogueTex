@@ -1,7 +1,6 @@
 # Hi, I'm Raghu
 
-Currently an FDE at Synthlo Iabs (YC S25)
-
+Currently an FDE at FurtherAI!
 
 UT Austin class of 2026.
 
