@@ -6,14 +6,6 @@ UT Austin class of 2026.
 
 I like building things at the intersection of ML and real-world systems. 
 
-Some of my notable hackathon wins: 
-
-[ChargePilot](https://github.com/RogueTex/ChargePilot-EV-Optimizer), a graph-based engine that ranks high-impact EV charger expansion sites using real urban data (built at TVG x c0mpiled, UT Austin). 
-
-[end-to-end agentic pipeline](https://github.com/RogueTex/Document-ML-Agent) for receipt and invoice processing with adaptive ML-based approval logic. 
-
-On the side, I wrote a [2048 variant](https://github.com/RogueTex/2A1BGame) from scratch and then built an [RL solver](https://github.com/RogueTex/2A1B_Solver) on top of it.
-
 ---
 
 ### Socials
